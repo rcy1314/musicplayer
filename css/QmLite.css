@@ -28,7 +28,7 @@
 }
 .content{
 	position: absolute;
-	left: auto;
+	left: 0;
 	top: auto;
 	width: 260px;
 	height: 300px;
